@@ -1,2 +1,0 @@
-MainPackage=E:\Github Project\EC Project\WapProjTemplate1\bin\x64\Release\Upload\WapProjTemplate1_1.0.0.0_x64.msix
-SymbolPackage=E:\Github Project\EC Project\WapProjTemplate1\bin\x64\Release\Upload\WapProjTemplate1_1.0.0.0\WapProjTemplate1_1.0.0.0_x64.appxsym
